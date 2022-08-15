@@ -1,0 +1,42 @@
+           *Important commans of linux*
+
+1.) cd ..(to go back one step from current directory).
+ 1.1 ) cat > file1 (to make anyfile)
+2.) cat filename(to check whats written inside file).
+3.) vi filename (to edit anyfile {press (i) to insert any letter }esc to exit from writing mode and :wq! to save and exit.)
+4.) nano  filename (its editor in linux like {vi})
+5.) touch file1 file2 filex y z (to make empty files)
+6.) mkdir directory name(to make directory)
+7.) rm directory or file name(to remove any file or directory)
+8) rm -rf(remove directory and inside directory or file forcefully)
+9.) ps -ef (to check what process is going on)
+10.) mv file1 file2(to rename or move files)
+11.) kill -9 process id(to kill any process)
+12.) which (to check verson)
+13.) pwd (to check where am i)
+14.) ls (to check what all directory or files)
+15.) ls -lrt(to check long list with running time and date of files)
+16.) ls -a(to check hidden files)
+17.) netstat (to check networking status)
+18.) nslookup(to check DNS name)
+19.)tar -cvf file.tar *files name(* .xml (to tar jitni bhi xml file ho ek sath tar ho jayengi))
+20.) untar ke liye  (tar -xvf filename)
+
+ 
+20.)git commands:
+1.) git init ( to local confi file)to start git.
+2.) git clone {github url name} remote repository.
+3.) git add . {to add new file or any changes in code or file}
+4.) git commit -m "message any for commiting"
+4.1)git checkout branchname (to switch branch) 
+5.) git push -u origin main
+6.) git pull origin master <branch name>
+
+
+maven (to build)
+
+
+
+*jenkins*
+
+
